@@ -1,0 +1,11 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+authors = ["ricardo"]
+edition = "2018"
+
+[lib]
+name = "fibonacci"
+crate-type = ["dylib"]
+
+[dependencies]
