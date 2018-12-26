@@ -1,4 +1,4 @@
-# Journey to RustLand (pun intended)
+# Journey to Rust Land (pun intended)
 
 ### 01 - Guessing Number 
 
